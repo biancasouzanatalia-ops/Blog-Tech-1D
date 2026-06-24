@@ -9,4 +9,6 @@ margin: 0 auto;
 main { 
 background-color: #FFFFFF;
 color:#183c63;
+max-width: 800px;
+margin: 0 auto;
 }
